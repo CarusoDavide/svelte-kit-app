@@ -18,7 +18,7 @@
 			</picture>
 		</span>
 
-		to your balls<br />SvelteKit app
+		for my website<br />SvelteKit app
 	</h1>
 
 	<h2>
